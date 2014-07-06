@@ -21,6 +21,7 @@
 		C75B943E1969F6B60025AE1A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C75B94201969F6B60025AE1A /* UIKit.framework */; };
 		C75B94461969F6B60025AE1A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = C75B94441969F6B60025AE1A /* InfoPlist.strings */; };
 		C75B94481969F6B60025AE1A /* UIScrrollView_Challenge_SolutionTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C75B94471969F6B60025AE1A /* UIScrrollView_Challenge_SolutionTests.m */; };
+		C75B94521969F7360025AE1A /* worldMap.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = C75B94511969F7360025AE1A /* worldMap.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		C75B94431969F6B60025AE1A /* UIScrrollView Challenge SolutionTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "UIScrrollView Challenge SolutionTests-Info.plist"; sourceTree = "<group>"; };
 		C75B94451969F6B60025AE1A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		C75B94471969F6B60025AE1A /* UIScrrollView_Challenge_SolutionTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UIScrrollView_Challenge_SolutionTests.m; sourceTree = "<group>"; };
+		C75B94511969F7360025AE1A /* worldMap.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = worldMap.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 		C75B94231969F6B60025AE1A /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				C75B94511969F7360025AE1A /* worldMap.jpeg */,
 				C75B94241969F6B60025AE1A /* UIScrrollView Challenge Solution-Info.plist */,
 				C75B94251969F6B60025AE1A /* InfoPlist.strings */,
 				C75B94281969F6B60025AE1A /* main.m */,
@@ -232,6 +235,7 @@
 				C75B94351969F6B60025AE1A /* Images.xcassets in Resources */,
 				C75B94271969F6B60025AE1A /* InfoPlist.strings in Resources */,
 				C75B94301969F6B60025AE1A /* Main.storyboard in Resources */,
+				C75B94521969F7360025AE1A /* worldMap.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

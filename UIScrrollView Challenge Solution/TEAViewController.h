@@ -8,6 +8,11 @@
 
 #import <UIKit/UIKit.h>
 
-@interface TEAViewController : UIViewController
+@interface TEAViewController : UIViewController <UIScrollViewDelegate>
+
+
+@property (strong, nonatomic) IBOutlet UIScrollView *scrollView;
+
+@property (strong, nonatomic) UIImageView *globalImageView;
 
 @end
